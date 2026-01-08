@@ -2,7 +2,7 @@
 #WAP TO CREATE VARAIBLE & STORE VALUE FROM USER AND DISPLAY DETAILS 
 #create a program to accept below detail from user and display it 
 #college Name branch semester hobbies
-#NAME=KRISHNADEEPSINH
+#NAME=UTSAV MORADIYA
 #DATE=3/1/26
 
 college_name=input("ENTER COLLEGE NAME = ")             #take input from user 
