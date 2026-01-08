@@ -1,5 +1,6 @@
 #WAP TO CREATE A DICTIONARY & INSERT UPDATE & DELETE DICTIONARY
-#NAME=KRISHNADEEPSINH
+#NAME=UTSAV MORADIYA
+
 #DATE=6/1/2026
 
 person={'name':'krishnadeepsinh','age':19,'weight':82,'gender':'male'}
