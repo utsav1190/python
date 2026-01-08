@@ -1,6 +1,7 @@
 #WAP TO CREATE LIST & PERFORM VARIOUS 
 #FUNCTIONS(APPEND,COUNT,COPY,REMOVE,DEL,POP,CLEAR,)
-#NAME=KRISHNADEEPSINH
+#NAME=UTSAV MORADIYA
+
 #DATE=5/1/2026
 
 list=['apple','krish','bottle','compass','apple',100,3.14,'apple',True,None,False]
